@@ -137,7 +137,7 @@ h1 {
 }
 
 .btn:hover {
-    transform: scale(0.5);
+    color:bold;
 }
 
 code, pre {
